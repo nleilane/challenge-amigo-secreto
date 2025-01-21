@@ -37,3 +37,9 @@ function limparCampo() {
   campoResultado = document.querySelector("input");
   campoResultado.value = "";
 }
+document.querySelector("input").addEventListener("keydown", function (event) {
+  console.log (event)
+  if (event.key === "Enter") {
+    adicionarAmigo();
+  }
+})
