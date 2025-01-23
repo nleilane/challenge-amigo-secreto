@@ -10,4 +10,4 @@ Adiciona um nome à lista. Caso o campo esteja vazio, uma mensagem de erro é ex
 5. Função limparCampo(): Limpa o campo de entrada de texto após adicionar um nome.
 6. Evento de Teclado: Permite adicionar nomes pressionando a tecla "Enter" no campo de texto.
 
-<img src=https://github.com/user-attachments/assets/c4baddc7-a039-4c10-b12b-88b3f8be3289 width="65%"/>
+<img src=https://github.com/user-attachments/assets/c4baddc7-a039-4c10-b12b-88b3f8be3289 width="100%"/>
