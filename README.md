@@ -1,6 +1,6 @@
 # Projeto simples em JavaScript que permite adicionar nomes a uma lista, visualizar os nomes e realizar o sorteio de um amigo secreto.
 Funcionalidades: Adicionar Amigo: Permite adicionar um nome e sortear um nome aleatório da lista.
-Estrutura do cógido:
+Estrutura do código:
 1. Variável amigos:
 Utilização de um array chamado amigos para armazenar os nomes adicionados.
 2. Função adicionarAmigo():
